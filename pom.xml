@@ -75,8 +75,8 @@
       </plugin>
       <plugin>
         <groupId>io.qameta.allure</groupId>
-        <artifactId>allure-testng</artifactId>
-        <version>2.19.0</version>
+        <artifactId>allure-maven</artifactId>
+        <version>2.10.0</version>
       </plugin>
     </plugins>
   </build>
